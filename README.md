@@ -27,7 +27,7 @@ dcoo does not officially support TypeScript. There are known incompatibilities w
 
 ## Docs
 
-### @logger (alias: @logger)
+### @logger
 
 Calls `console.log()`, `console.warn()`, `console.error()` ,`console.info()` with a log message. Provide a custom message to override the default one. You can also provide an options hash with a `url`, for further reading.
 
