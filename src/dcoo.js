@@ -5,4 +5,4 @@
  * https://github.com/rjoydip/dcoo
  * @license
  */
-export { default as log } from './log';
+export { default as logger } from 'lib/logger';

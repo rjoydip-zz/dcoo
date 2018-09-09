@@ -1,5 +1,5 @@
 {
-  "include": ["src", "test/deprecate.spec.js", "test/time.spec.js"],
+  "include": ["src", "test/logger.spec.js"],
   "exclude": ["scripts", "lib/**", "es", "node_modules", "built"],
   "compilerOptions": {
     "outDir": "built",
