@@ -23,7 +23,7 @@ dcoo does not officially support TypeScript. There are known incompatibilities w
 
 ##### For Methods
 
-- [@log](#log)
+- [@logger](#logger)
 
 ## Docs
 
